@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004370479545",
+    "project_id": "travel-app-b2802",
+    "storage_bucket": "travel-app-b2802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004370479545:android:a9b37c491d0f370725ce68",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wfOueOGUdEzlfTVrT5grq8rmiivwULE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
